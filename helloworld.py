@@ -1,0 +1,7 @@
+print('Hello world!')
+print(1 + 2)
+print(2 * 9)
+print(2 - 9)
+print("The end", "Hello python", 3, "keep learning")
+print("My hovercraft is full of eels")
+print(6 * 7)
