@@ -16,3 +16,6 @@ money = 15
 
 print(money // bun_price)
 print((a+b)/(a-b))
+d=a/b #3
+e=d+a #9
+print(e) #9
